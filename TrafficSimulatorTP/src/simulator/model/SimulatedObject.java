@@ -6,7 +6,7 @@ public abstract class SimulatedObject {
 
 	protected String _id;
 
-	SimulatedObject(String id) {
+	SimulatedObject (String id) {
 		_id = id;
 	}
 
